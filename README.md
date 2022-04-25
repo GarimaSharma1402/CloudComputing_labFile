@@ -1,1 +1,1 @@
-# CloudComputing_labFile
+Lab file of 6th Sem of Cloud Computing. In one folder, simulation of process scheduling algorithms, which are First Come First Serve (FCFS), Round Robin(RR) and Non-Preemptive Shortest Job First (SJF) using C/C++ is done. In second folder, simulation is done using CloudSim tool which uses .jar file of cloudsim 3.0.3
